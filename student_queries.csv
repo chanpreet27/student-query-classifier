@@ -1,0 +1,151 @@
+query,label
+When will the semester exams start?,Academics
+Can you share the timetable for internal assessments?,Academics
+What is the deadline to submit my practical file?,Academics
+How do I register for a supplementary exam?,Academics
+Where can I find the syllabus for data structures?,Academics
+Is tomorrow's lecture cancelled?,Academics
+Who should I contact about attendance shortage in a subject?,Academics
+When will the mid-semester results be announced?,Academics
+Can I get notes for the economics lecture?,Academics
+What is the procedure to apply for rechecking marks?,Academics
+Which classroom is assigned for the Python lab?,Academics
+How many credits does this subject carry?,Academics
+Can the professor explain the assignment submission format?,Academics
+What topics are included in the next class test?,Academics
+I missed a lecture; where can I find the course material?,Academics
+How do I choose an elective for next semester?,Academics
+When does the library close during exam week?,Academics
+Is there a make-up practical for students who were absent?,Academics
+Where is the date sheet posted?,Academics
+How can I contact my course coordinator about a subject?,Academics
+Can I change my tutorial group?,Academics
+What is the minimum attendance requirement for this course?,Academics
+When will the answer sheets be shown?,Academics
+Please tell me the last date for project submission.,Academics
+Is there a lab session on Friday?,Academics
+How do I enrol in the next semester's courses?,Academics
+Can I request an extension for my assignment?,Academics
+Where can I download previous-year question papers?,Academics
+What is the marking scheme for the final exam?,Academics
+Who handles an issue with my internal marks?,Academics
+How can I pay my semester fees?,Fees
+Where can I download the fee receipt?,Fees
+My online fee payment failed but money was deducted.,Fees
+What is the last date to pay the tuition fee?,Fees
+Can I pay my college fees in instalments?,Fees
+How do I check my outstanding fee balance?,Fees
+I need a duplicate receipt for last semester's payment.,Fees
+Is there a late fee for paying after the deadline?,Fees
+Which payment methods are accepted for fees?,Fees
+How can I confirm that my fee payment was received?,Fees
+I paid twice by mistake; how do I report it?,Fees
+Where is the fee structure for the new academic year?,Fees
+Can the accounts office explain an extra charge on my bill?,Fees
+When will the fee refund be processed?,Fees
+What is the process for paying examination fees?,Fees
+Do I need to pay the lab fee separately?,Fees
+My receipt is not showing in the student portal.,Fees
+Can I get an invoice for the semester payment?,Fees
+How do I pay the admission fee online?,Fees
+Is there a penalty for a delayed payment?,Fees
+Please tell me the bank details for college fee payment.,Fees
+Can I update the transaction reference on my fee record?,Fees
+Why is my fee status still marked pending?,Fees
+Where can I ask about a hostel fee payment?,Fees
+How do I apply for a refund after withdrawing admission?,Fees
+Can I pay the fee at the college counter?,Fees
+What is the deadline for the annual fee?,Fees
+I need help with a failed UPI fee transaction.,Fees
+How much is the examination fee this semester?,Fees
+Who should I contact about a fee receipt mismatch?,Fees
+I forgot my student portal password. How can I reset it?,Account
+My college login says my account is locked.,Account
+How do I change the email linked to my student account?,Account
+I cannot log in to the student portal.,Account
+The OTP is not arriving when I sign in.,Account
+How can I reset my portal username?,Account
+My student account is showing an invalid password error.,Account
+How do I enable two-factor authentication for my account?,Account
+I changed my phone and cannot access my college login.,Account
+My profile name is incorrect in the portal.,Account
+How can I update my contact details in my student account?,Account
+The portal says my account does not exist.,Account
+How do I activate my college email account?,Account
+I am unable to upload my profile photo to the portal.,Account
+Can I recover my username?,Account
+My account keeps logging me out automatically.,Account
+How do I change the password for my college email?,Account
+I cannot access the online attendance portal because of login issues.,Account
+My student ID login has been disabled.,Account
+Where can I report an unauthorised login attempt?,Account
+How do I verify my college email address?,Account
+The reset-password link has expired.,Account
+Can my portal account be unlocked?,Account
+My dashboard is blank after I log in.,Account
+How do I sign out of all devices on my student account?,Account
+I am getting an authentication error in the app.,Account
+Can I merge two duplicate portal accounts?,Account
+My account details are not saving after editing.,Account
+I lost access to my registered email address.,Account
+How can I get help with a student portal login issue?,Account
+How can I apply for a college scholarship?,Scholarship
+What documents are needed for a merit scholarship?,Scholarship
+When is the scholarship application deadline?,Scholarship
+Where can I check my scholarship application status?,Scholarship
+Am I eligible for a need-based scholarship?,Scholarship
+How do I renew my scholarship for next year?,Scholarship
+My scholarship form is showing incomplete.,Scholarship
+Where can I upload my income certificate for scholarship review?,Scholarship
+Can I correct a mistake in my scholarship application?,Scholarship
+When will scholarship results be announced?,Scholarship
+What is the process for applying for a government scholarship?,Scholarship
+How do I check whether my scholarship was approved?,Scholarship
+Is there a scholarship for students with high marks?,Scholarship
+Can I submit a missing document after the deadline?,Scholarship
+Who can help me with the scholarship portal?,Scholarship
+How do I update my bank details in a scholarship form?,Scholarship
+What is the family income limit for this scholarship?,Scholarship
+Can I apply for more than one scholarship?,Scholarship
+My scholarship payment has not arrived; whom should I contact?,Scholarship
+Where can I find the list of available scholarships?,Scholarship
+How do I get a bonafide certificate for a scholarship application?,Scholarship
+Can first-year students apply for financial aid?,Scholarship
+What does pending verification mean on my scholarship status?,Scholarship
+How can I appeal a scholarship application decision?,Scholarship
+Do I need to renew my scholarship every semester?,Scholarship
+Which certificates are accepted for scholarship verification?,Scholarship
+Can I get help filling out the scholarship form?,Scholarship
+What is the procedure for a minority scholarship application?,Scholarship
+How do I track my scholarship disbursement?,Scholarship
+Where can I ask about a scholarship document rejection?,Scholarship
+What are the college office timings?,General
+Where is the administration block located?,General
+How can I contact the college reception?,General
+What are the library opening hours?,General
+Is parking available on campus?,General
+Where can I find the academic calendar?,General
+How do I apply for a college identity card replacement?,General
+Where is the lost and found desk?,General
+Can visitors enter the campus on weekends?,General
+What are the rules for using the college library?,General
+Where can I find information about campus events?,General
+How do I book the seminar hall?,General
+Is the campus accessible by metro?,General
+Who should I contact about a lost item?,General
+Where can I get a bonafide certificate?,General
+How do I register a complaint about campus facilities?,General
+What is the procedure for getting a hostel room key replaced?,General
+Where is the student helpdesk located?,General
+Can I get the contact number for the transport office?,General
+What time does the college gate close?,General
+Where can I find information about student clubs?,General
+How do I request permission to organise an event?,General
+Is there a first-aid room on campus?,General
+Where can I report a broken classroom projector?,General
+What are the visiting hours for the administration office?,General
+How can I join a college society?,General
+Where can I get a campus map?,General
+Is there a canteen on campus?,General
+How do I submit feedback about campus facilities?,General
+Who handles questions about college transport?,General
